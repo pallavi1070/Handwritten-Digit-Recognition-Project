@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+\*.py\[cod]
+\*.so
+
+# Model and Font Files
+
+\*.h5
+\*.ttf
+
+# Operating System Files
+
+.DS\_Store
+Thumbs.db
+
+# Logs
+
+\*.log
