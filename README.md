@@ -56,10 +56,6 @@ This is a Handwritten Digit Recognition Project developed using Python and a Con
 * If the drawing is incomplete or not clear, the model may not provide an accurate prediction.
 * If the model file (`bestmodel.h5`) is missing, the application will not run.
 
-## License
-
-This project is licensed under the MIT License. Feel free to modify and use it as needed.
-
 ## Acknowledgements
 
 * The pre-trained CNN model was built using Keras.
